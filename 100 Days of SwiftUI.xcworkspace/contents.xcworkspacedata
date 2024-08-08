@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:structs.playground">
+   </FileRef>
+   <FileRef
+      location = "group:functionsAsParameters.playground">
+   </FileRef>
+   <FileRef
+      location = "group:trailingClosureSyntax.playground">
+   </FileRef>
+   <FileRef
+      location = "group:closures2.playground">
+   </FileRef>
+   <FileRef
+      location = "group:closures.playground">
+   </FileRef>
+   <FileRef
+      location = "group:handleErrorsFunctions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:advancedFunction.playground">
+   </FileRef>
+   <FileRef
+      location = "group:functions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:continueAndBreaks.playground">
+   </FileRef>
+   <FileRef
+      location = "group:whileLoop.playground">
+   </FileRef>
+   <FileRef
+      location = "group:forLoops.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ternaryConditionalOperator.playground">
+   </FileRef>
+   <FileRef
+      location = "group:useSwitchStatements.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ifStatment.playground">
+   </FileRef>
+   <FileRef
+      location = "group:typeAnnotation.playground">
+   </FileRef>
+   <FileRef
+      location = "group:constantVariable.playground">
+   </FileRef>
+   <FileRef
+      location = "group:enums.playground">
+   </FileRef>
+   <FileRef
+      location = "group:sets.playground">
+   </FileRef>
+   <FileRef
+      location = "group:booleans.playground">
+   </FileRef>
+   <FileRef
+      location = "group:dataAndArrays.playground">
+   </FileRef>
+   <FileRef
+      location = "group:stringInterpolation.playground">
+   </FileRef>
+   <FileRef
+      location = "group:integers.playground">
+   </FileRef>
+</Workspace>

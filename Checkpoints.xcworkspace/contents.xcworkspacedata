@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Checkpoint 5.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Checkpoint 4.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Checkpoint 3.playground">
+   </FileRef>
+   <FileRef
+      location = "group:randomNumberGuessing.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Checkpoint 2.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Checkpoint 1.playground">
+   </FileRef>
+</Workspace>
