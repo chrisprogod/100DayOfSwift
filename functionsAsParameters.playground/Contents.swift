@@ -11,6 +11,6 @@ func makeArray(size: Int, using generator: () -> Int) -> [Int] {
     return numbers
 }
 let rolls = makeArray(size: 4) {
-    Int.random(in: 1...20)
+    Int.random(in: 1...30)
 }
 print(rolls)
