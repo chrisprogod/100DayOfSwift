@@ -17,8 +17,12 @@ print(red)
 
 struct Employee {
     let name: String  // here we can specifiy a default value like "Anonymous" but since it a constant, it would not be mutable when calling the instance of employee
+    
     var vacationRemaining: Int = 14  //here since vacationRemaining is a variable, it can have a default value so it dosent have to be specified when calling the struct Employee
 
+    //inside Structs, variable and constants are called properties (name and vacation remaning)
+    //Functions inside structs are called methods
+    
    mutating func takeVacation(days: Int) {
         if vacationRemaining > days {
             vacationRemaining -= days
@@ -30,6 +34,8 @@ struct Employee {
         }
     }
 }
+
+//When creating variables from structs like "ange" and "chris", we create instances of a struct
 
 var chris = Employee.init(name: "Chris Teg", vacationRemaining: 20)
 var ange = Employee(name: "Ange Teg")
