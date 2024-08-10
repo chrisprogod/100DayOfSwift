@@ -1,6 +1,6 @@
 import SwiftUI
 
-//Type Annotations allow us to OVERWIRTE a specific data type to a variable/constant ex: we can make an integer a string
+//Type Annotations allow us to OVERWIRTE a specific data type to a variable/constant ex: we can make an integer a double
 
 let surname: String = "Lasso"
 print(type(of: surname))
