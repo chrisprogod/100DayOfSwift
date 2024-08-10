@@ -424,6 +424,27 @@
 			<key>orderHint</key>
 			<integer>10</integer>
 		</dict>
+		<key>propertyObserver (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>propertyObserver (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
+		<key>propertyObserver (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
 		<key>sets (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>

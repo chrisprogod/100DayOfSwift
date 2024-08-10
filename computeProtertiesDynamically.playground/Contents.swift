@@ -30,13 +30,17 @@ struct employee {
     //"remaining" is a computed property as it runs a a calculation automatically whenever its called
 }
 
+var ange = employee(person: "ange") // swift dosent allow use to set computed proterties in initilizers so we cannot add (remaining: Int)
+
 var chris = employee(person: "Chris", vacationAllocated: 20)
 chris.vacationTaken += 10
-chris.remaining = 2 
+chris.remaining = 2
 print(chris.vacationAllocated)
 
-// a getter(get) reads info and is used to define what happens when we get values
+// a getter(get)  is used to define what happens when we get values
 // a setter is used to define what happens when you change (or "set") the value of the property. You can customize how the new value is handled or how it affects other properties
 //The logic now is that if we take 10 days of vacation and then we have four days remaining, vacationAllocated = 14
+
+
 
 
