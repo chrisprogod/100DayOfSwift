@@ -37,7 +37,7 @@ struct Employee {
 
 //When creating variables from structs like "ange" and "chris", we create instances of a struct
 
-var chris = Employee.init(name: "Chris Teg", vacationRemaining: 20)
+var chris = Employee.init(name: "Chris Teg", vacationRemaining: 20) //this line is an initializer
 var ange = Employee(name: "Ange Teg")
 
 ange.takeVacation(days: 15)
