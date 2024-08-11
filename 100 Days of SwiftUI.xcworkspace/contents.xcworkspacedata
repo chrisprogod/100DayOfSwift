@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/christian_teguim/SwiftProjects/100 Days of Swift UI/LimitInternalDataAccess.playground">
+   </FileRef>
+   <FileRef
       location = "group:customInitializers.playground">
    </FileRef>
    <FileRef
