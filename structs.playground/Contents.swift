@@ -20,7 +20,7 @@ struct Employee {
     
     var vacationRemaining: Int = 14  //here since vacationRemaining is a variable, it can have a default value so it dosent have to be specified when calling the struct Employee
 
-    //inside Structs, variable and constants are called properties (name and vacation remaning)
+     //inside Structs, variable and constants are called properties (name and vacation remaning)
     //Functions inside structs are called methods
     
    mutating func takeVacation(days: Int) {
