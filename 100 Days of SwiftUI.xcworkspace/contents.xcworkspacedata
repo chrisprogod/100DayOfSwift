@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:VariableInsideClasses.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ClassDeinitializer.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CopyClass.playground">
+   </FileRef>
+   <FileRef
       location = "group:ClassInit.playground">
    </FileRef>
    <FileRef

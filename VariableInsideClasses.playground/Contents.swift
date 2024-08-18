@@ -1,3 +1,9 @@
 import Cocoa
 
-var greeting = "Hello, playground"
+class User {
+    var name = "Paul"
+}
+
+let user = User()
+user.name = "Taylor"
+print(user.name)
