@@ -22,6 +22,7 @@ class Developer: Employee {
     
     override func printSummary() {   // we use override to change a method from a superclass(parentclass)
                                      //if a parent class has a method that dosent take a parameter and dosent return anything and the parent class has child class with the same emthod that takes in a paramteter, the methods are considered different and wont require the override keyword.
+                                     //In this case, printSummary() is the same in both classes
         print("As a Dev, I worked \(hours) hours today. ")
     }
 }

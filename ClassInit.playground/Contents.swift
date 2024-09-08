@@ -22,4 +22,5 @@ class Car: Vehicle {
 }
 
 let teslaX = Car(isElectric: true)
+//we couldve aslo written let teslaX = Vehicule(isElectric: true) but in that case the property "isCOnvertible" wouldnt existe
 teslaX.isConvertible = false

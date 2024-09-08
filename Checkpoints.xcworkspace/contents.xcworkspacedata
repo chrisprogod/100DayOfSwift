@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Checpoint 7.playground">
+   </FileRef>
+   <FileRef
+      location = "group:GPTLessonDeinit.playground">
+   </FileRef>
+   <FileRef
       location = "group:Checkpoint 6.playground">
    </FileRef>
    <FileRef
